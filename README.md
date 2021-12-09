@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pankaj Sharma 
-- 👀 I’m interested in collaborating
+
 
 <!---
 psharma7250/psharma7250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
